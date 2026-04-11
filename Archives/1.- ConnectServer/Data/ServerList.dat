@@ -1,0 +1,10 @@
+0
+//ServerCode   ServerClient          ServerName          ServerAddress         ServerPort       ServerType
+0             "Server (pvp)"        "GameServer"         "192.168.1.8"            55901            "SHOW"
+19            ""                    "GameServerCS"       "192.168.1.8"            55919            "HIDE"
+end
+
+1 // 20 + 0 = 20
+//ServerCode   ServerClient          ServerName          ServerAddress         ServerPort       ServerType
+//0              "Server2 test"        "GameServer20"      "192.168.1.8"        55921            "SHOW"
+end
