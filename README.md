@@ -21,3 +21,6 @@ Repositorio com os sources e arquivos de runtime do backend do projeto, incluind
 - Reestruturados sockets TCP e UDP para base POSIX.
 - Organizada a documentacao do ConnectServer em pt-BR dentro de `docs/`.
 
+### 26-04-16
+
+- Testing Discord
